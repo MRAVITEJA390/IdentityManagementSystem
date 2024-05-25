@@ -1,3 +1,3 @@
-from .contact import Contact
+from .contact import Contact, Precedence
 
-__all__ = ["Contact"]
+__all__ = ["Contact", "Precedence"]
